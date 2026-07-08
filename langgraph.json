@@ -1,0 +1,9 @@
+{
+  "dependencies": [
+    "."
+  ],
+  "graphs": {
+    "song_highlights": "./src/graph/factory.ts:graph"
+  },
+  "env": ".env"
+}
